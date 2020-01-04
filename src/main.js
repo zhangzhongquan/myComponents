@@ -3,6 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 import './registerServiceWorker'
+import './styles/index.less'
 
 Vue.config.productionTip = false
 
